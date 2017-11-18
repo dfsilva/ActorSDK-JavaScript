@@ -1,23 +1,87 @@
 {
-  "name": "actor-js",
-  "version": "1.0.189",
+  "_args": [
+    [
+      {
+        "raw": "actor-js@latest",
+        "scope": null,
+        "escapedName": "actor-js",
+        "name": "actor-js",
+        "rawSpec": "latest",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/diego/Documents/projetos/ActorSDK-Web"
+    ]
+  ],
+  "_from": "actor-js@latest",
+  "_id": "actor-js@1.0.189",
+  "_inCache": true,
+  "_location": "/actor-js",
+  "_nodeVersion": "4.2.4",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/actor-js-1.0.189.tgz_1467729694972_0.05157597176730633"
+  },
+  "_npmUser": {
+    "name": "ex3ndr",
+    "email": "steve@actor.im"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "actor-js@latest",
+    "scope": null,
+    "escapedName": "actor-js",
+    "name": "actor-js",
+    "rawSpec": "latest",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/actor-js/-/actor-js-1.0.189.tgz",
+  "_shasum": "6742ff1b79f24b0287a56633848d8290e8a6bb25",
+  "_shrinkwrap": null,
+  "_spec": "actor-js@latest",
+  "_where": "/Users/diego/Documents/projetos/ActorSDK-Web",
+  "author": {
+    "name": "Actor Team"
+  },
+  "bugs": {
+    "url": "https://github.com/actorapp/ActorSDK-JavaScript/issues"
+  },
+  "dependencies": {},
   "description": "Actor SDK for building messaging on top of Actor Messenger platform",
-  "main": "module.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6742ff1b79f24b0287a56633848d8290e8a6bb25",
+    "tarball": "https://registry.npmjs.org/actor-js/-/actor-js-1.0.189.tgz"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/actorapp/ActorSDK-JavaScript.git"
-  },
+  "gitHead": "cad4e3f335eab0d4e676228f0f6d586e76d3b1b1",
+  "homepage": "https://github.com/actorapp/ActorSDK-JavaScript#readme",
   "keywords": [
     "actor",
     "messenger"
   ],
-  "author": "Actor Team",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/actorapp/ActorSDK-JavaScript/issues"
+  "main": "module.js",
+  "maintainers": [
+    {
+      "name": "ex3ndr",
+      "email": "steve@actor.im"
+    }
+  ],
+  "name": "actor-js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actorapp/ActorSDK-JavaScript.git"
   },
-  "homepage": "https://github.com/actorapp/ActorSDK-JavaScript#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.189"
 }
